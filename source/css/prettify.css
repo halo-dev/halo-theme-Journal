@@ -2,7 +2,7 @@
 
 /* for color-themes-for-google-code-prettify */
 pre{
-    white-space: pre-wrap;
+    white-space: pre;
     word-break: break-all;
     word-wrap: break-word;
 }
